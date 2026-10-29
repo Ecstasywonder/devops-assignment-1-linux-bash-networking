@@ -1,3 +1,28 @@
+<!-- PORTFOLIO_STAR_V1 -->
+# Linux Diagnostics — Bash & Networking
+
+**Engineering case study — Situation · Task · Action · Result**
+
+### Situation
+Linux operators need quick and repeatable signals for system resources and network connectivity.
+
+### Task
+Develop a CLI toolkit with understandable output, logging and failure codes.
+
+### Action
+Created Bash system, disk and network diagnostic scripts covering input validation, disk threshold detection, DNS/ICMP/TCP checks, timestamped logging and a grading script.
+
+### Result
+Repository instructions allow syntax and behavior checks to be reproduced. This is training work, with no claim of production monitoring or cloud rollout.
+
+**Documentation/evidence:** [System information](system-info.sh) · [Disk monitoring](disk-check.sh) · [Network diagnostics](network-check.sh)
+
+> The results above are limited to documented implementation and verification, not inferred performance or production outcomes.
+
+---
+
+## Technical documentation
+
 # DevOps Assignment 1 — Linux, Bash & Networking
 
 ## Overview
